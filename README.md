@@ -32,6 +32,15 @@
 * [Brúarfoss :world_map:](https://www.google.com/maps/place/Br%C3%BAarfoss/@64.3268351,-20.3519448,10z/data=!4m6!3m5!1s0x48d699b42950c4e9:0x2611ea18f9caca81!8m2!3d64.2642562!4d-20.5157062!16s%2Fg%2F121ffgqr)
     * 7 km round trip walk and roughly 2 to 3 hours
 
+* [Geysir :world_map:](https://goo.gl/maps/37zbdfaHFn6Cf9sS7)
+![](https://i.imgur.com/wXVokHA.jpg)
+    * 1 hour
+* [Gullfoss Waterfall :world_map:]![](https://i.imgur.com/eSjo9nr.jpg)
+    * 1-2 hours
+
+
+
+
 * [Kerid Crater :world_map:](https://www.google.com/maps/place/Kerid+Crater/@64.0412785,-21.1959615,10z/data=!4m6!3m5!1s0x48d68bb755f6f257:0x515a44e0c12ed907!8m2!3d64.0412785!4d-20.8851466!16zL20vMGZ5dDl2?coh=164777&entry=tt&shorturl=1)
     * [web](http://kerid.is/)
     * 3 EUR foreach, book in advance if 10 or more people
@@ -60,6 +69,27 @@
 ---
 
 ## Day3 (6/22, Thu)
+* [Seljalandsfoss :world_map:](https://goo.gl/maps/GgAMZX57JqUL23eW8)
+    * Hike: 15 min
+* [Thorsmork :world_map:](https://goo.gl/maps/nLxt8JxojkqcyYpg7)
+![](https://i.imgur.com/1hUx2M9.jpg)
+    * F-road- 4WD car
+    * 3-4 hours hiking
+    * Local tour?
+    
+
+* [Skógafoss :world_map: ](https://goo.gl/maps/GCHDBd8aHELd542y6)
+    * Just look
+    * Stay 30 to 60 mins
+
+* [Parking for Sólheimasandur Plane Wreck :world_map: ](https://goo.gl/maps/1H99onWLU61WZyvy6)
+    * Parking fee 750 ISK ==5 EUR- [Pay online](https://www.parka.is/pay/solheimasandur/)
+![](https://i.imgur.com/H4GIPxM.png)
+    * no hiking trail
+
+* Dyrhólaey
+    * take 1h 40 min
+
 
 ### stay
 - `Giljur Guesthouse will not be available`
@@ -73,9 +103,19 @@
     * [location :world_map:](https://www.google.be/maps/place/Vik/@63.4378324,-19.0622298,17z/data=!3m1!4b1!4m6!3m5!1s0x48d74b6ed7338c55:0x1b651fa33bcd194a!8m2!3d63.43783!4d-19.0600411!16s%2Fg%2F11sk34wss0?)
     * Price 483 EUR for all (Mixed room)
 
+* `consider living nearby the Fjaðrárgljúfur canyon?`
+* [Hörgsland Guesthouse](https://www.booking.com/hotel/is/horgsland-guesthouse.en-gb.html?aid=397642&label=gog235jc-1BCAEoggI46AdIM1gDaBWIAQGYAQm4AQfIAQzYAQHoAQGIAgGoAgO4Aty9pKAGwAIB0gIkZDJkMDdmMDgtZjFiZS00YjYzLWJlMzctYWRhODgxYTg5MTEz2AIF4AIB&sid=5e5c6123a3c77341c83890af980477d5&all_sr_blocks=124871505_114267009_0_1_0%2C124871505_114267009_0_1_0%2C124871507_114267009_0_1_0;checkin=2023-06-22;checkout=2023-06-23;dist=0;group_adults=9;group_children=0;hapos=1;highlighted_blocks=124871505_114267009_0_1_0%2C124871505_114267009_0_1_0%2C124871507_114267009_0_1_0;hpos=1;matching_block_id=124871505_114267009_0_1_0;no_rooms=1;req_adults=9;req_children=0;room1=A%2CA%2CA%2CA%2CA%2CA%2CA%2CA%2CA;sb_price_type=total;sr_order=distance_from_search;sr_pri_blocks=124871505_114267009_0_1_0__40280%2C124871505_114267009_0_1_0__40280%2C124871507_114267009_0_1_0__21730;srepoch=1678320184;srpvid=5c79005b63ab00d0;type=total;ucfs=1&#hotelTmpl)
+    * [location:world_map:](https://www.google.be/maps/place/H%C3%B6rgsland+Cottages/@63.8671829,-19.2955163,8.89z/data=!4m9!3m8!1s0x48d0fbac5ac6e9cb:0x9441b516b85809e5!5m2!4m1!1i2!8m2!3d63.8428067!4d-17.9498871!16s%2Fg%2F1hdzhw2pg?hl=en-GB)
+
+* `consider stay separately?`
+* 
 ---
 
 ## Day4 (6/23, Fri)
+
+* [Fjaðrárgljúfur canyon  :world_map:](https://goo.gl/maps/AU46dC2p4ZrjkvkJA)
+    * Hike: 3.1k, take 1 hour 
+![](https://i.imgur.com/ryshM8c.jpg)
 
 ---
 
