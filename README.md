@@ -2,49 +2,28 @@
 ## [牛哥map:world_map:](https://www.google.com/maps/d/viewer?fbclid=IwAR1MKG8xziSJ_a0KEsVOUxWZ6nquPRWmRrTC1_N_v6tM7Hh9XKHiINk7mik&mid=1861fb8VNtdzUV8INnZp2Fh8MtJtnO0M&ll=64.1178366624364%2C-20.527383498523022&z=9)
 ## [牛哥excel](https://docs.google.com/spreadsheets/d/139xsVyPWRUAUWX7-xDadWW3uITqYF8A9CuvPU_sxrhQ/edit#gid=1673988949)
 
+## [new map:world_map:](https://www.google.com/maps/d/viewer?mid=1qcq7Aeu2GPtIfjSlQowYe2i-LsXMQF0&ll=63.53205230000004%2C-19.51137060000001&z=10)
+
 ---
 
 # Car Info
 ### 交給傑哥
 
 ---
+# Issue to Discuss and Stay
 
 ## Day1 (6/20, Tue)
 
 - Wrong Airport location?
-- Last day for [Blue Lagoon](https://www.bluelagoon.com/)?
+- Last 2 days for **Reykjavík** and [Blue Lagoon](https://www.bluelagoon.com/)? Then first day directly to VIK? 
 
 ### stay
-* [Two luxury apartments in same house](https://www.airbnb.com/rooms/11209782?adults=9&location=Reykjav%C3%ADk%2C%20Iceland&check_in=2023-06-20&check_out=2023-06-21&federated_search_id=af0eda19-1e43-40a2-a884-af1eea8c1748&source_impression_id=p3_1678058161_90zDUc8u13F%2FHMCP)
-    * [location :world_map:](https://www.google.be/maps/place/Reykjav%C3%ADk,+Iceland/@64.1334735,-21.9224811,12z/data=!3m1!4b1!4m6!3m5!1s0x48d674b9eedcedc3:0xec912ca230d26071!8m2!3d64.146582!4d-21.9426354!16zL20vMDZmbGc?hl=en-GB)
-    * Price: 1021 EUR for all
 
-* [Grotta Northern Lights - Three Bedroom Apartment](https://www.airbnb.com/rooms/15179112?adults=9&location=Reykjav%C3%ADk%2C%20Iceland&check_in=2023-06-20&check_out=2023-06-21&federated_search_id=af0eda19-1e43-40a2-a884-af1eea8c1748&source_impression_id=p3_1678058298_DeINBCBZ67YGkAW3)
-    * [location :world_map:](https://www.google.be/maps/place/Valh%C3%BAsabraut,+170+Seltjarnarnes,+Iceland/@64.1540546,-22.0004692,17z/data=!3m1!4b1!4m6!3m5!1s0x48d60ae0c127443d:0x7c3a1575936e54eb!8m2!3d64.1540523!4d-21.9982805!16s%2Fg%2F1tj525dd?hl=en-GB)
-    * Price: 485 EUR for all
 
 ---
 
 
-## Day2 (6/21, Wed)
-
-
-* [Brúarfoss :world_map:](https://www.google.com/maps/place/Br%C3%BAarfoss/@64.3268351,-20.3519448,10z/data=!4m6!3m5!1s0x48d699b42950c4e9:0x2611ea18f9caca81!8m2!3d64.2642562!4d-20.5157062!16s%2Fg%2F121ffgqr)
-    * 7 km round trip walk and roughly 2 to 3 hours
-
-* [Geysir :world_map:](https://goo.gl/maps/37zbdfaHFn6Cf9sS7)
-![](https://i.imgur.com/wXVokHA.jpg)
-    * 1 hour
-* [Gullfoss Waterfall :world_map:]![](https://i.imgur.com/eSjo9nr.jpg)
-    * 1-2 hours
-
-
-
-
-* [Kerid Crater :world_map:](https://www.google.com/maps/place/Kerid+Crater/@64.0412785,-21.1959615,10z/data=!4m6!3m5!1s0x48d68bb755f6f257:0x515a44e0c12ed907!8m2!3d64.0412785!4d-20.8851466!16zL20vMGZ5dDl2?coh=164777&entry=tt&shorturl=1)
-    * [web](http://kerid.is/)
-    * 3 EUR foreach, book in advance if 10 or more people
-    
+## Day2 (6/21, Wed, 96.1k)
 
 ### stay
 
@@ -69,27 +48,23 @@
 ---
 
 ## Day3 (6/22, Thu)
+
 * [Seljalandsfoss :world_map:](https://goo.gl/maps/GgAMZX57JqUL23eW8)
     * Hike: 15 min
-* [Thorsmork :world_map:](https://goo.gl/maps/nLxt8JxojkqcyYpg7)
-![](https://i.imgur.com/1hUx2M9.jpg)
-    * F-road- 4WD car
-    * 3-4 hours hiking
-    * Local tour?
     
-
+* [Thorsmork :world_map:](https://goo.gl/maps/nLxt8JxojkqcyYpg7)
+    * F-249: 4WD car required
+    * 3-4 hours hiking
+    ![](https://i.imgur.com/1hUx2M9.jpg)
+    
 * [Skógafoss :world_map: ](https://goo.gl/maps/GCHDBd8aHELd542y6)
-    * Just look
-    * Stay 30 to 60 mins
 
 * [Parking for Sólheimasandur Plane Wreck :world_map: ](https://goo.gl/maps/1H99onWLU61WZyvy6)
-    * Parking fee 750 ISK ==5 EUR- [Pay online](https://www.parka.is/pay/solheimasandur/)
+    * Parking fee 750 ISK ~= 5 EUR: [Pay online](https://www.parka.is/pay/solheimasandur/)
 ![](https://i.imgur.com/H4GIPxM.png)
-    * no hiking trail
 
-* Dyrhólaey
-    * take 1h 40 min
-
+* [Dyrhólaey :world_map: ](https://goo.gl/maps/HqzUQYkMJQJbT7z68)
+    * trail: 1h 40 min
 
 ### stay
 - `Giljur Guesthouse will not be available`
@@ -108,40 +83,107 @@
     * [location:world_map:](https://www.google.be/maps/place/H%C3%B6rgsland+Cottages/@63.8671829,-19.2955163,8.89z/data=!4m9!3m8!1s0x48d0fbac5ac6e9cb:0x9441b516b85809e5!5m2!4m1!1i2!8m2!3d63.8428067!4d-17.9498871!16s%2Fg%2F1hdzhw2pg?hl=en-GB)
 
 * `consider stay separately?`
-* 
----
 
-## Day4 (6/23, Fri)
+## Day4 (6/23, Fri, 215k)
 
 * [Fjaðrárgljúfur canyon  :world_map:](https://goo.gl/maps/AU46dC2p4ZrjkvkJA)
+    * Move to Day3?
     * Hike: 3.1k, take 1 hour 
-![](https://i.imgur.com/ryshM8c.jpg)
+    ![](https://i.imgur.com/ryshM8c.jpg)
+
+* [Svartifoss :world_map:](https://goo.gl/maps/2wMnRkirj9yJgyj86)
+    * Different hiking trails (all round-trip/ level) -> more trails on this [web](https://www.vatnajokulsthjodgardur.is/en/areas/skaftafell/plan-your-visit/hiking)
+    * i) Skaftafellsjökull: 3.7k, 1-1.5hrs/easy
+    * ii) Svartifoss - Sjónarsker - Sel: 5.5k, 2hrs/easy
+    * iii) Sjónarnípa: 6.4k, 2-2.5hrs/challenging
+    * fee of parking and visiting: 750 ISK ~= 5 EUR
+    ![](https://i.imgur.com/fxGgcpQ.jpg)
+
+* [Diamond Beach :world_map:](https://goo.gl/maps/DszPpiCbHywqQ4zs5)
+    * Northern light in Winter
+    ![](https://i.imgur.com/gjkfgSp.jpg)
+
+* [Jökulsárlón :world_map:](https://goo.gl/maps/eZiFEGTnAHfFybHb9)
+    ![](https://i.imgur.com/vTv7cqy.jpg)
+    * local Tour: [web](https://icelagoon.is/about-us/)
+    * i) ICE CAVE AND GLACIER EXPLORATION TOUR  and ICE CAVE Tour (only available in Sep-April)
+    * ii) ZODIAC TOURS ~= 42 EUR/person
+    * iii) AMPHIBIAN BOAT TOURS ~= 92 EUR/person
+    ![](https://i.imgur.com/WsjEHSk.jpg)
+
 
 ---
 
-## Day5 (6/24, Sat)
+## Day5 (6/24, Sat, 502k)
 
+* [Vestrahorn :world_map:](https://goo.gl/maps/TDcSPZ9TFyiJP3H3A)
+    * entrance fee (800 ISK ~= 5.3 EUR)
+    ![](https://i.imgur.com/4oIHrbs.jpg)
+
+* [Seydisfjordur Town :world_map:](https://goo.gl/maps/pFRfZobcXzqTGJ9DA)
+    ![](https://i.imgur.com/LpyD6eh.jpg)
+
+* [Stuðlagil Canyon :world_map:](https://goo.gl/maps/A21udF2tqA1gNqC67)
+    * 2-3 hrs
+    ![](https://i.imgur.com/PFnsoLl.jpg)
+
+### 拉車去Reykjahlíð?
 ---
 
-## Day6 (6/25, Sun)
+## Day6 (6/25, Sun, 243k)
+ 
+* [Dettifoss :world_map: ](https://goo.gl/maps/1NUWBENRmw8XjmTp9)
+    * ISK 800 ==5 EUR
+    * walk a loop == 3 hrs
+    ![](https://i.imgur.com/kOaGHqi.jpg)
 
+* [Krafla :world_map: ](https://goo.gl/maps/bhjUsnEv9si1UMbF6)
+    * walk a loop ~= 1 hr
+    ![](https://i.imgur.com/TatqJEy.jpg)
+* [Hverir :world_map: ](https://goo.gl/maps/GonViLR8NrPsXDxv9)
+    ![](https://i.imgur.com/yhuasD7.jpg)
+
+* [Grjótagjá :world_map:](https://goo.gl/maps/9GcuRBhEgjY9g8FL9)
+    * walking but challenging
+    * 1 h 15 min
+    ![](https://i.imgur.com/2kdPjnq.jpg)
+
+* [Goðafoss :world_map:](https://goo.gl/maps/HiJ91Tds2aDE4DfAA)
+    * 1 h
+    ![](https://i.imgur.com/sk4hP5o.jpg)
+
+* 拉車去Akureyri住？
+* [Akureyrarkirkja :world_map:](https://goo.gl/maps/M2M6XeNqBVQPycQM6)
 ---
 
-## Day7 (6/26, Mon)
+## Day7 (6/26, Mon, 422k)
 
+* Akureyri 市區走走
+* [Hvitserkur :world_map:](https://goo.gl/maps/mvnjphDC42xxkApP7)
+    * 1 hr
+    ![](https://i.imgur.com/bU864YV.jpg)
+* [Kirkjufellsfoss :world_map:](https://goo.gl/maps/2GmtEM2ofH2Zrh7K7) 
+    * Parking fee 700 ISK ~= 4.6 EUR
+    ![](https://i.imgur.com/TeDIuIu.jpg)
 ---
+## Day8 (6/27, Tue, 206k)
 
-## Day8 (6/27, Tue)
+* [Ytri Tunga :world_map:](https://goo.gl/maps/z7nZNkAEm6SVQ92CA)
+    * May-July
+    * seal-watching before 9 a.m
 
+* [Hallgrimskirkja :world_map:](https://goo.gl/maps/4Un9vQ9VphSTDo747)
+    * 09.00-21.00 
+    ![](https://i.imgur.com/tUD98O0.jpg)
+* [Blue Logoon :world_map:](https://goo.gl/maps/FxaxYd9Q3xh4oS8U9)
+    * [Booking](https://www.bluelagoon.com/book/guests) 
 ---
 
 ## Day9 (6/28, Wed)
 
----
 
 ## Day10 (6/29, Thu)
-
----
+* flight at 6 am (DUB), 6:10 am (BRU)
 
 
 # Equitments (Public)
